@@ -1,6 +1,6 @@
 body {
     color: white;
-    background: rgb(35, 150, 35);
+    background: rgb(0, 17, 255);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 }
@@ -13,7 +13,7 @@ header {
 }
 
 section {
-    background: rgb(184, 156, 213);
+    background: rgb(253, 0, 63);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
